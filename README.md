@@ -152,7 +152,7 @@ I'm a passionate **AI Engineering Architect** specializing in building intellige
 
 | Certification | Issuer | Date |
 |:--------------|:-------|:-----|
-| 📊 [Certification Name 1] | [Issuer 1] | [Date 1] |
+| 📊 [Oracle Database SQL Certified Specialist] | [Oracle] | [Nov 2024] |
 | 💼 [Certification Name 2] | [Issuer 2] | [Date 2] |
 | 📈 [Certification Name 3] | [Issuer 3] | [Date 3] |
 
