@@ -71,7 +71,7 @@ I'm a passionate **AI Engineering Architect** specializing in building intellige
   <tr>
     <td width="50%" valign="top">
       <h4>👷‍♂️ AI Smart Helmet Ecosystem</h4>
-      <p><b>*Industrial Hazard Detection & Worker Safety*</b></p>
+      <p><b>Industrial Hazard Detection & Worker Safety</b></p>
       <ul>
         <li>🚨 Multi-sensor embedded logic (Gas, Flame, Temp)</li>
         <li>⚠️ Real-time collision & proximity algorithms</li>
@@ -79,33 +79,33 @@ I'm a passionate **AI Engineering Architect** specializing in building intellige
         <li>📱 Mobile application system for supervisors</li>
       </ul>
       <br>
-      <p><b>Tech:</b> C++ • Flutter • IOT Sensors </p>
+      <p><b>Tech:</b> • C++ • Flutter • IOT Sensors </p>
     </td>
     <td width="50%" valign="top">
-      <h4>📄 AutoResearcherAI</h4>
-      <p><b>Research Paper to Code Generator</b></p>
+      <h4>📊 eComScope Analytics Suite</h4>
+      <p><b>Enterprise E-Commerce Intelligence Dashboard</b></p>
       <ul>
-        <li>🤖 Automated code generation from research papers</li>
-        <li>🧠 Powered by LangChain & LLMs</li>
-        <li>📚 PDF parsing & context extraction</li>
-        <li>⚡ End-to-end ML pipeline automation</li>
+        <li>⚡ Processes 11,000+ row CSV datasets completely in-browser</li>
+        <li>📈 Optimized pure FileReader parsing</li>
+        <li>🗺️ Leaflet.js & Chart.js for real-time rendering</li>
+        <li>🧠 Model AUC-ROC logic mapping: 0.97</li>
       </ul>
       <br>
-      <p><b>Tech:</b> LangChain • OpenAI • Python • NLP</p>
+      <p><b>Tech:</b> • Javascript • Chart.js • HTML/CSS</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📰 Techy - AI News Research Tool</h4>
-      <p><b>Semantic Search & Q&A System</b></p>
+      <h4>🛣 Smart Navigation System</h4>
+      <p><b>Accident-Prone Zone Detection & Safe Route Logic</b></p>
       <ul>
-        <li>🔍 FAISS vector database for semantic search</li>
-        <li>💬 Intelligent Q&A over news articles</li>
-        <li>🎯 Hugging Face Transformers integration</li>
-        <li>📊 Context-aware information retrieval</li>
+        <li>🗺️ Full-stack geographic system identifying high-risk map routes</li>
+        <li>🚨 Aggressive spatial route evaluation</li>
+        <li>📉 Risk scoring logic based on historical density</li>
+        <li>💻 Responsive enterprise-grade tracking UI</li>
       </ul>
       <br>
-      <p><b>Tech:</b> FAISS • Transformers • Python • NLP</p>
+      <p><b>Tech:</b> • Javascript • Leaflet • GeoJson</p>
     </td>
     <td width="50%" valign="top">
       <h4>🎮 More Projects</h4>
@@ -113,7 +113,7 @@ I'm a passionate **AI Engineering Architect** specializing in building intellige
       <br>
       <ul>
         <li>🌟 Check out my <a href="https://github.com/sathishr-ai?tab=repositories">GitHub repositories</a></li>
-        <li>💼 View detailed case studies on my <a href="resume.pdf">Portfolio</a></li>
+        <li>💼 View detailed case studies on my <a href="sathishdev.vercel.app">Portfolio</a></li>
         <li>📁 Open to collaboration on AI/ML projects</li>
       </ul>
     </td>
