@@ -130,12 +130,14 @@ I'm a passionate **AI Engineering Architect** specializing in building intellige
 
 ## 💼 Professional Experience
 
-### 🔬 [Title e.g. AI Intern] | [Company Name]
-*[Start Date] - [End Date]*
+### 🔬 Artificial Intelligence Intern| Codtech IT Solutions Pvt. Ltd
+*March 2026 - April 2026*
 
-- [Developed and deployed machine learning models for classification and prediction tasks]
-- [Implemented end-to-end ML pipelines for real-world business problems]
-- [Collaborated with cross-functional teams on AI solution architecture]
+- Designed and implemented machine learning models for real-world analytical tasks
+- Worked on NLP-based systems for text processing and intelligent data extraction
+- Built end-to-end AI workflows including data preprocessing, model training, and evaluation
+- Applied data-driven approaches to solve practical business and analytical problems
+- Explored intelligent system design and automation techniques in real-world scenarios
 
 ### 📊 [Title e.g. Data Science Intern] | [Company Name]
 *[Start Date] - [End Date]*
@@ -152,9 +154,9 @@ I'm a passionate **AI Engineering Architect** specializing in building intellige
 
 | Certification | Issuer | Date |
 |:--------------|:-------|:-----|
-| 📊 [Oracle Database SQL Certified Specialist] | [Oracle] | [Nov 2024] |
-| 💼 [Certification Name 2] | [Issuer 2] | [Date 2] |
-| 📈 [Certification Name 3] | [Issuer 3] | [Date 3] |
+| 📊 Oracle Database SQL Certified Specialist | Oracle | Nov 2024 |
+| 💼 Tableau & Tableau Prep for Data Prep & Visualization | Udemy | Mar 2025 |
+| 📈 Professional Certificate in Agile & Scrum | Udemy | Dec 2025 |
 
 </div>
 
