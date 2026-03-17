@@ -68,62 +68,56 @@ I'm a passionate **AI Engineering Architect** specializing in building intellige
 
 ## 🚀 Featured Projects
 <table>
-<tr>
-<td width="50%">
-
-### 👷‍♂️ AI Smart Helmet Ecosystem
-**Industrial Hazard Detection & Worker Safety**
-
-- 🚨 Multi-sensor embedded logic (Gas, Flame, Temp)
-- ⚠️ Real-time collision & proximity algorithms
-- ☁️ Hardware-to-Cloud telemetry integration
-- 📱 Mobile application system for supervisors
-
-**Tech:** C++ • Flutter • IoT Sensors
-
-</td>
-<td width="50%">
-
-### 🎓 Student Success AI Predictor
-**ML Pipeline for Academic Performance Analysis**
-
-- 🧠 End-to-end ML system predicting pass/fail outcomes
-- ⚖️ Handled severe class imbalance (~10% failure rate)
-- 📈 SMOTE + active class weighting (Macro F1: 0.78)
-- 🤖 Minority Class Recall optimization to 0.66
-
-**Tech:** Python • Scikit-Learn • Data Visualization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📊 eComScope Analytics Suite
-**Enterprise E-Commerce Intelligence Dashboard**
-
-- ⚡ Processes 11,000+ row CSV datasets completely in-browser
-- 📈 Optimized pure FileReader parsing
-- 🗺️ Leaflet.js & Chart.js for real-time rendering
-- 🧠 Model AUC-ROC logic mapping: 0.97
-
-**Tech:** JavaScript • Chart.js • HTML/CSS
-
-</td>
-<td width="50%">
-
-### 🛣 Smart Navigation System
-**Accident-Prone Zone Detection & Safe Route Logic**
-
-- 🗺️ Full-stack geographic system identifying high-risk map routes
-- 🚨 Aggressive spatial route evaluation
-- 📉 Risk scoring logic based on historical density
-- 💻 Responsive enterprise-grade tracking UI
-
-**Tech:** JavaScript • Leaflet • GeoJSON
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 Real-Time DevOps Log Analyzer</h4>
+      <p><b>AI-Powered Monitoring & Anomaly Detection</b></p>
+      <ul>
+        <li>📈 Time-series forecasting with Facebook Prophet</li>
+        <li>🎯 Real-time log analysis & pattern recognition</li>
+        <li>🖥️ Interactive Streamlit dashboard</li>
+        <li>⚡ Automated alert system for anomalies</li>
+      </ul>
+      <br>
+      <p><b>Tech:</b> Python • Prophet • Streamlit • Pandas</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📄 AutoResearcherAI</h4>
+      <p><b>Research Paper to Code Generator</b></p>
+      <ul>
+        <li>🤖 Automated code generation from research papers</li>
+        <li>🧠 Powered by LangChain & LLMs</li>
+        <li>📚 PDF parsing & context extraction</li>
+        <li>⚡ End-to-end ML pipeline automation</li>
+      </ul>
+      <br>
+      <p><b>Tech:</b> LangChain • OpenAI • Python • NLP</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📰 Techy - AI News Research Tool</h4>
+      <p><b>Semantic Search & Q&A System</b></p>
+      <ul>
+        <li>🔍 FAISS vector database for semantic search</li>
+        <li>💬 Intelligent Q&A over news articles</li>
+        <li>🎯 Hugging Face Transformers integration</li>
+        <li>📊 Context-aware information retrieval</li>
+      </ul>
+      <br>
+      <p><b>Tech:</b> FAISS • Transformers • Python • NLP</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎮 More Projects</h4>
+      <p><b>Explore My Work</b></p>
+      <br>
+      <ul>
+        <li>🌟 Check out my <a href="https://github.com/sathishr-ai?tab=repositories">GitHub repositories</a></li>
+        <li>💼 View detailed case studies on my <a href="resume.pdf">Portfolio</a></li>
+        <li>📁 Open to collaboration on AI/ML projects</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
