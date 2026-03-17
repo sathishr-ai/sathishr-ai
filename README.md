@@ -70,16 +70,16 @@ I'm a passionate **AI Engineering Architect** specializing in building intellige
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔍 Real-Time DevOps Log Analyzer</h4>
-      <p><b>AI-Powered Monitoring & Anomaly Detection</b></p>
+      <h4>👷‍♂️ AI Smart Helmet Ecosystem</h4>
+      <p><b>*Industrial Hazard Detection & Worker Safety*</b></p>
       <ul>
-        <li>📈 Time-series forecasting with Facebook Prophet</li>
-        <li>🎯 Real-time log analysis & pattern recognition</li>
-        <li>🖥️ Interactive Streamlit dashboard</li>
-        <li>⚡ Automated alert system for anomalies</li>
+        <li>🚨 Multi-sensor embedded logic (Gas, Flame, Temp)</li>
+        <li>⚠️ Real-time collision & proximity algorithms</li>
+        <li>☁️ Hardware-to-Cloud telemetry integration</li>
+        <li>📱 Mobile application system for supervisors</li>
       </ul>
       <br>
-      <p><b>Tech:</b> Python • Prophet • Streamlit • Pandas</p>
+      <p><b>Tech:</b> C++ • Flutter • IOT Sensors </p>
     </td>
     <td width="50%" valign="top">
       <h4>📄 AutoResearcherAI</h4>
