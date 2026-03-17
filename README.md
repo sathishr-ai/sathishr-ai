@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathxsh57@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-r-2393412a5/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathishr-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sathishdev.vercel.app/)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Intelligent+Systems;Data+→+Insight+→+Action;Full-Stack+AI+Deployment" alt="Typing SVG" />
 
@@ -113,7 +113,7 @@ I'm a passionate **AI Engineering Architect** specializing in building intellige
       <br>
       <ul>
         <li>🌟 Check out my <a href="https://github.com/sathishr-ai?tab=repositories">GitHub repositories</a></li>
-        <li>💼 View detailed case studies on my <a href="sathishdev.vercel.app">Portfolio</a></li>
+        <li>💼 View detailed case studies on my <a href="https://sathishdev.vercel.app/">Portfolio</a></li>
         <li>📁 Open to collaboration on AI/ML projects</li>
       </ul>
     </td>
