@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm SATHISH R
-### AI Engineering Architect | Full-Stack Innovator
+### AI Engineer | Full-Stack Innovator
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathxsh57@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-r-2393412a5/)
@@ -177,7 +177,7 @@ I'm always interested in collaborations on high-impact AI/ML systems and Full-St
 [![Email](https://img.shields.io/badge/Email-sathxsh57@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathxsh57@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-r-2393412a5/)
 [![GitHub](https://img.shields.io/badge/GitHub-Visit-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathishr-ai)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sathishdev.vercel.app/)
 
 </div>
 
