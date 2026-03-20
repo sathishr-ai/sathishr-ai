@@ -1,62 +1,64 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:3B82F6&height=220&section=header&text=SATHISH%20R&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Innovator&descAlignY=55&descSize=18&descColor=58a6ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:3B82F6&height=220&section=header&text=SATHISH%20R&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineering%20Architect%20%7C%20Full-Stack%20Innovator&descAlignY=55&descSize=20&descColor=58a6ff" width="100%" />
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sathishr-ai&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sathishr-ai?label=Followers&style=flat-square&color=236ad3&labelColor=1155ba" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sathishr-ai?label=Stars&style=flat-square&color=800080&labelColor=5B005B" alt="Stars" />
-</p>
+<div align="center" style="margin-top: -10px; margin-bottom: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=sathishr-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sathishr-ai?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sathishr-ai?label=Stars&style=for-the-badge&color=800080&labelColor=5B005B" alt="Stars" />
+</div>
 
 <!-- TYPING SVG ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Intelligent+AI+Systems+%F0%9F%A7%A0;Data+%E2%86%92+Insight+%E2%86%92+Action+%F0%9F%93%8A;Full-Stack+AI+Deployment+%F0%9F%9A%80;Turning+Ideas+into+Production+Code+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Building+Intelligent+AI+Systems;Data+%E2%86%92+Insight+%E2%86%92+Action;Full-Stack+AI+Deployment;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
 </a>
 
-<!-- ACTION BUTTONS -->
-<br/>
-
-[![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathxsh57@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-r-2393412a5/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sathishdev.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://sathishdev.vercel.app/)
+<!-- ACTION BUTTON CLUSTER -->
+<div align="center" style="margin-bottom: 20px;">
+  <a href="mailto:sathxsh57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sathish-r-2393412a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" /></a>
+  <a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010" alt="Portfolio" /></a>
+  <a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=101010" alt="Resume" /></a>
+</div>
 
 </div>
 
-<!-- GRADIENT DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- GRADIENT NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" align="center" /> About Me
 
-<table>
+<table align="center">
   <tr>
     <td width="60%" valign="top">
-      <p>
-        I'm a passionate <b>AI Engineering Architect</b> specializing in building intelligent systems that solve real-world problems. I ground every architectural decision in statistical truth, write production-ready scalable code, and deliver actionable AI models that empower organizations.
+      <h3 align="center">Architecting Intelligence</h3>
+      <p align="justify">
+        I am a passionate <b>AI Engineering Architect</b> specializing in building intelligent systems that solve real-world problems. I ground every architectural decision in statistical truth, write production-ready scalable code, and deliver actionable AI models that empower organizations.
       </p>
-      <p>
-        I bridge the gap between <b>complex data</b> and <b>end-user deployment</b> — from model training to full-stack application delivery.
+      <p align="justify">
+        I bridge the gap between <b>complex algorithmic data</b> and <b>end-user deployment</b> — carrying projects from raw model training to polished, full-stack application delivery.
       </p>
     </td>
     <td width="40%" valign="top">
+      <h3 align="center">Quick Facts</h3>
       <ul>
-        <li>🔭 Working on <b>AI-Powered Analytics Platforms</b></li>
-        <li>🌱 Learning <b>LLMs & Generative AI</b></li>
-        <li>💡 Exploring <b>MLOps & Model Deployment</b></li>
-        <li>🤝 Open to <b>AI/ML Collaborations</b></li>
+        <li>🔭 Working on: <b>AI-Powered Analytics</b></li>
+        <li>🌱 Learning: <b>LLMs & Generative AI</b></li>
+        <li>💡 Exploring: <b>MLOps Integration</b></li>
+        <li>🤝 Open to: <b>Enterprise AI Roles</b></li>
         <li>🎯 Goal: <b>Build AI that matters</b></li>
-        <li>📍 Based in <b>India</b></li>
+        <li>📍 Location: <b>India</b></li>
       </ul>
     </td>
   </tr>
 </table>
 
-<!-- GRADIENT DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- GRADIENT NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🛠️ Technical Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" align="center" /> Technical Arsenal
 
 <div align="center">
 
@@ -110,10 +112,10 @@
 
 </div>
 
-<!-- GRADIENT DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- GRADIENT NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" align="center" /> Featured Projects
 
 <div align="center">
 <table>
@@ -122,7 +124,7 @@
       <h3 align="center">👷‍♂️ AI Smart Helmet Ecosystem</h3>
       <p align="center">
         <a href="https://github.com/sathishr-ai/Smart-Helmet-Industrial-Safety">
-          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
       </p>
       <p><b>Industrial Hazard Detection & Worker Safety</b></p>
@@ -143,7 +145,7 @@
       <h3 align="center">📊 eComScope Analytics Suite</h3>
       <p align="center">
         <a href="https://github.com/sathishr-ai/Ecommerce-Sales-Analysis">
-          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
       </p>
       <p><b>Enterprise E-Commerce Intelligence Dashboard</b></p>
@@ -166,7 +168,7 @@
       <h3 align="center">🛣️ Smart Navigation System</h3>
       <p align="center">
         <a href="https://github.com/sathishr-ai/Smart-Navigation-System-for-Accident-Prone-Detection">
-          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
       </p>
       <p><b>Accident-Prone Zone Detection & Safe Route Logic</b></p>
@@ -186,7 +188,7 @@
       <h3 align="center">🎓 Student Analytics Platform</h3>
       <p align="center">
         <a href="https://github.com/sathishr-ai/student-academic-analytics-platform">
-          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
       </p>
       <p><b>AI-Powered Academic Performance Intelligence</b></p>
@@ -216,17 +218,18 @@
 
 </div>
 
-<!-- GRADIENT DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- GRADIENT NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 💼 Professional Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" align="center" /> Professional Experience
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <h3>🔬 Artificial Intelligence Intern</h3>
-      <b>Codtech IT Solutions Pvt. Ltd</b> · <i>March 2026 - April 2026</i>
-      <br/><br/>
+    <td valign="top">
+      <h3 style="margin-bottom: 0px;">🔬 Artificial Intelligence Intern</h3>
+      <p style="margin-top: 5px;">
+        <a href="https://codtech.in/"><b>Codtech IT Solutions Pvt. Ltd</b></a> · <i>March 2026 - April 2026</i>
+      </p>
       <ul>
         <li>Designed and implemented machine learning models for real-world analytical tasks</li>
         <li>Worked on NLP-based systems for text processing and intelligent data extraction</li>
@@ -244,10 +247,10 @@
   </tr>
 </table>
 
-<!-- GRADIENT DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- GRADIENT NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🏆 Certifications & Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" align="center" /> Certifications & Achievements
 
 <div align="center">
 
@@ -259,14 +262,12 @@
 
 </div>
 
-<!-- GRADIENT DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- GRADIENT NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" align="center" /> GitHub Analytics
 
 <div align="center">
-
-
 
 <!-- STATS + STREAK SIDE BY SIDE -->
 <p>
@@ -288,16 +289,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishr-ai&bg_color=0d1117&color=58a6ff&line=3B82F6&point=FF6B6B&area=true&area_color=3B82F6&hide_border=true" alt="Activity Graph" width="95%" />
 </a>
 
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sathishr-ai/sathishr-ai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sathishr-ai/sathishr-ai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sathishr-ai/sathishr-ai/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
 </div>
 
-<!-- GRADIENT DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+<!-- GRADIENT NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
-## 🤝 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" align="center" /> Let's Connect
 
 <div align="center">
 
-<h3>I'm always interested in collaborations on high-impact AI/ML systems and Full-Stack Engineering!</h3>
+<h3>I'm always open to collaborations on high-impact AI/ML systems and Full-Stack Engineering!</h3>
 
 <br/>
 
