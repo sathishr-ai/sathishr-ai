@@ -250,14 +250,7 @@
 
 <div align="center">
 
-<!-- GITHUB TROPHY -->
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sathishr-ai&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophy" />
-  </a>
-</p>
 
-<br/>
 
 <!-- STATS + STREAK SIDE BY SIDE -->
 <p>
