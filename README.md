@@ -237,7 +237,7 @@
 
 | 🏅 Certification | 🏢 Issuer | 📅 Date |
 |:-----------------|:----------|:--------|
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) Oracle Database SQL — **Certified Specialist** | **Oracle University** | Nov 2024 |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) Oracle Database SQL — **Certified Specialist (81%)** | **Oracle University** | Nov 2024 |
 | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) Tableau & Tableau Prep for Data Prep & Visualization | **Udemy** | Mar 2025 |
 | ![IoT](https://img.shields.io/badge/NPTEL-FF9933?style=flat-square&logo=swayam&logoColor=white) Introduction to Internet of Things — **Elite Certification (75%)** | **NPTEL (IIT Kharagpur)** | Jul - Oct 2025 |
 | ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white) Professional Certificate in Agile & Scrum | **Udemy** | Dec 2025 |
