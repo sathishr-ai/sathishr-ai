@@ -17,10 +17,10 @@
 
 <!-- ACTION BUTTON CLUSTER -->
 <div align="center" style="margin-bottom: 20px;">
-  <a href="mailto:sathxsh57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sathish-r-2393412a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" /></a>
+  <a href="mailto:sathxsh57@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010&v=2" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sathish-r-2393412a5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010&v=2" alt="LinkedIn" /></a>
+  <a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010&v=2" alt="Portfolio" /></a>
+  <a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=101010&v=2" alt="Resume" /></a>
 </div>
 
 </div>
