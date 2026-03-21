@@ -35,7 +35,7 @@
     <td width="60%" valign="top">
       <h3 align="center">Architecting Intelligence</h3>
       <p align="justify">
-        I am a results-driven <b>AI & Full-Stack Developer</b> specializing in bridging the gap between <b>complex Machine Learning models</b> and <b>highly responsive web architectures</b>. From spearheading LLM integrations to designing full-stack healthcare platforms, I thrive at the intersection of deep learning and software engineering.
+        I am a results-driven <b>AI Developer & Data Analyst</b> specializing in bridging the gap between <b>complex Machine Learning models</b> and <b>highly responsive full-stack architectures</b>. From spearheading LLM integrations and automated ETL pipelines to designing full-stack healthcare platforms, I thrive at the intersection of deep learning and data science.
       </p>
       <p align="justify">
         My expertise spans building <b>React & Flutter</b> interfaces, engineering resilient <b>Node.js & Python</b> APIs, and deploying production-ready AI pipelines with <b>TensorFlow, PyTorch, & XGBoost</b> to transform raw data into high-impact, user-centric solutions.
