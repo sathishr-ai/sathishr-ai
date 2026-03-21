@@ -12,7 +12,7 @@
 
 <!-- TYPING SVG ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Building+Intelligent+AI+Systems;Data+%E2%86%92+Insight+%E2%86%92+Action;Full-Stack+AI+Deployment;Turning+Ideas+into+Production+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Building+Intelligent+AI+Systems;Data+Pipeline+%26+ETL+Engineering;Full-Stack+AI+Deployment;From+Raw+Data+to+AI+Product" alt="Typing SVG" />
 </a>
 
 <!-- ACTION BUTTON CLUSTER -->
