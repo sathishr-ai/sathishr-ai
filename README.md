@@ -35,10 +35,10 @@
     <td width="60%" valign="top">
       <h3 align="center">Architecting Intelligence</h3>
       <p align="justify">
-        I am a passionate <b>AI Engineering Architect</b> specializing in building intelligent systems that solve real-world problems. I ground every architectural decision in statistical truth, write production-ready scalable code, and deliver actionable AI models that empower organizations.
+        I am a results-driven <b>AI & Full-Stack Developer</b> specializing in bridging the gap between <b>complex Machine Learning models</b> and <b>highly responsive web architectures</b>. From spearheading LLM integrations to designing full-stack healthcare platforms, I thrive at the intersection of deep learning and software engineering.
       </p>
       <p align="justify">
-        I bridge the gap between <b>complex algorithmic data</b> and <b>end-user deployment</b> — carrying projects from raw model training to polished, full-stack application delivery.
+        My expertise spans building <b>React & Flutter</b> interfaces, engineering resilient <b>Node.js & Python</b> APIs, and deploying production-ready AI pipelines with <b>TensorFlow, PyTorch, & XGBoost</b> to transform raw data into high-impact, user-centric solutions.
       </p>
     </td>
     <td width="40%" valign="top">
