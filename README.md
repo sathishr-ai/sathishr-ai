@@ -114,9 +114,13 @@
           <img src="https://img.shields.io/badge/📱_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" />
         </a>
       </p>
-      <p align="justify">
-        A fast, cross-platform healthcare application prioritizing early disease detection. Built with Flutter and Node.js, it analyzes clinical metrics and patient history through an XGBoost machine learning model to provide real-time Coronary Heart Disease risk assessments and automated preventive advisories.
-      </p>
+      <p><b>Intelligent Cross-Platform Healthcare App</b></p>
+      <ul>
+        <li>🏥 <b>Early Detection:</b> Fast, cross-platform app prioritizing preventive care </li>
+        <li>🧠 <b>ML-Driven:</b> Analyzes clinical metrics via an integrated XGBoost model</li>
+        <li>⚡ <b>Real-Time UI:</b> Delivers instant risk scoring & automated advisories</li>
+        <li>📱 <b>Robust Stack:</b> Seamless Flutter interface powered by a Node.js backend</li>
+      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -134,9 +138,13 @@
           <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
         </a>
       </p>
-      <p align="justify">
-        A masterfully crafted educational intelligence platform prioritizing administrative efficiency. Built with Python and Streamlit, it seamlessly processes 1,500+ student records, tracks attendance heatmaps, and detects at-risk students to provide instant, actionable academic insights—all powered by an embedded zero-config SQLite database.
-      </p>
+      <p><b>Enterprise Educational Intelligence Platform</b></p>
+      <ul>
+        <li>📊 <b>Admin Efficiency:</b> Masterfully crafted to process 1,500+ student records</li>
+        <li>📈 <b>Visual Heatmaps:</b> Seamlessly tracks attendance trends & academic KPIs</li>
+        <li>🎯 <b>At-Risk Detection:</b> Identifies struggling students for actionable insights</li>
+        <li>🚀 <b>Zero-Config:</b> Built with Python, Streamlit, and an embedded SQLite DB</li>
+      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
@@ -156,9 +164,13 @@
           <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
         </a>
       </p>
-      <p align="justify">
-        A browser-based dashboard that ingests large CSV datasets (11,000+ rows) to deliver instant KPIs, interactive visualizations, and a machine-learning-inspired late-delivery predictor. Built with vanilla JavaScript and Chart.js, it simulates XGBoost-style risk scoring with 94% accuracy—no backend required.
-      </p>
+      <p><b>Intelligent E-Commerce KPI Dashboard</b></p>
+      <ul>
+        <li>⚡ <b>High-Performance:</b> Browser-based ingestion of 11,000+ row CSV datasets</li>
+        <li>📈 <b>Interactive Vis:</b> Instant business KPIs and dynamic charts using Chart.js</li>
+        <li>🧠 <b>Predictive ML:</b> Machine-learning-inspired late-delivery scoring (94% accuracy)</li>
+        <li>💻 <b>Backend-Free:</b> Pure vanilla JavaScript pipeline simulating XGBoost logic</li>
+      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
@@ -173,9 +185,13 @@
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
       </p>
-      <p align="justify">
-        A robust IoT safety platform prioritizing industrial worker protection. Built with Arduino (C/C++) and a cross-platform Flutter app, it utilizes multi-sensor telemetry to actively detect toxic gases, fire hazards, and potential collisions—providing instant, life-saving alerts and enterprise-scale oversight.
-      </p>
+      <p><b>AI-Integrated IoT Safety Platform</b></p>
+      <ul>
+        <li>🛡️ <b>Worker Protection:</b> Robust safety ecosystem for hazardous environments</li>
+        <li>📡 <b>Sensor Telemetry:</b> Actively detects toxic gases, hazards, & collisions</li>
+        <li>🚨 <b>Life-Saving Alerts:</b> Provides instant notifications & enterprise oversight</li>
+        <li>📱 <b>Hardware-to-Mobile:</b> Arduino (C/C++) with a cross-platform Flutter app</li>
+      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
