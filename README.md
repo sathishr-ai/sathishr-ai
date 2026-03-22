@@ -104,13 +104,13 @@
     <td width="50%" valign="top">
       <h3 align="center">❤️ HeartSafe - CHD Risk Assessor</h3>
       <p align="center">
-        <a href="https://github.com/sathishr-ai/HeartSafe">
+        <a href="https://github.com/sathishr-ai/HeartSafe-FullStack.git">
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
-        <a href="#">
+        <a href="https://heartsafechdpred.netlify.app/">
           <img src="https://img.shields.io/badge/🌐_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
         </a>
-        <a href="#">
+        <a href="https://github.com/sathishr-ai/HeartSafe-FullStack/releases/download/v1.0/app-release.apk">
           <img src="https://img.shields.io/badge/📱_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" />
         </a>
       </p>
@@ -134,7 +134,7 @@
         <a href="https://github.com/sathishr-ai/student-academic-analytics-platform">
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
-        <a href="#">
+        <a href="https://student-academic-analytics-platform.streamlit.app/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
         </a>
       </p>
@@ -160,7 +160,7 @@
         <a href="https://github.com/sathishr-ai/Ecommerce-Sales-Analysis">
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
-        <a href="#">
+        <a href="https://sathishr-ai.github.io/Ecommerce-Sales-Analysis/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
         </a>
       </p>
