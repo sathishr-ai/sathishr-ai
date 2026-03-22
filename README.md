@@ -108,7 +108,7 @@
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
         <a href="https://heartsafechdpred.netlify.app/">
-          <img src="https://img.shields.io/badge/🌐_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
+          <img src="https://img.shields.io/badge/🌐_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=111111" />
         </a>
         <a href="https://github.com/sathishr-ai/HeartSafe-FullStack/releases/download/v1.0/app-release.apk">
           <img src="https://img.shields.io/badge/📱_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" />
@@ -135,7 +135,7 @@
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
         <a href="https://student-academic-analytics-platform.streamlit.app/">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=111111" />
         </a>
       </p>
       <p><b>Enterprise Educational Intelligence Platform</b></p>
@@ -161,7 +161,7 @@
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
         <a href="https://sathishr-ai.github.io/Ecommerce-Sales-Analysis/Ecommerce%20sales.html">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
       </p>
       <p><b>Intelligent E-Commerce KPI Dashboard</b></p>
