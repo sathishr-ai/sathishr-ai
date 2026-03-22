@@ -161,7 +161,7 @@
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
         <a href="https://sathishr-ai.github.io/Ecommerce-Sales-Analysis/Ecommerce%20sales.html">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=111111" />
         </a>
       </p>
       <p><b>Intelligent E-Commerce KPI Dashboard</b></p>
