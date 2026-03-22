@@ -114,12 +114,12 @@
           <img src="https://img.shields.io/badge/📱_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" />
         </a>
       </p>
-      <p><b>Intelligent Cross-Platform Healthcare App</b></p>
+      <p><b>Intelligent Web & Mobile Healthcare Ecosystem</b></p>
       <ul>
-        <li>🏥 <b>Early Detection:</b> Fast, cross-platform app prioritizing preventive care </li>
+        <li>🏥 <b>Dual-Platform:</b> Fully integrated Web Dashboard and dedicated Android App</li>
         <li>🧠 <b>ML-Driven:</b> Analyzes clinical metrics via an integrated XGBoost model</li>
         <li>⚡ <b>Real-Time UI:</b> Delivers instant risk scoring & automated advisories</li>
-        <li>📱 <b>Robust Stack:</b> Seamless Flutter interface powered by a Node.js backend</li>
+        <li>💻 <b>Robust Stack:</b> Seamless Flutter mobile UI & web interface powered by Node.js</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
