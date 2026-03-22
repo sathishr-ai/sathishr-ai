@@ -160,7 +160,7 @@
         <a href="https://github.com/sathishr-ai/Ecommerce-Sales-Analysis">
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
-        <a href="https://sathishr-ai.github.io/Ecommerce-Sales-Analysis/">
+        <a href="https://sathishr-ai.github.io/Ecommerce-Sales-Analysis/Ecommerce%20sales.html">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
         </a>
       </p>
