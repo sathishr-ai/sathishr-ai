@@ -146,23 +146,30 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛣️ Smart Navigation System</h3>
+      <h3 align="center">❤️ HeartSafe - CHD Risk Assessor</h3>
       <p align="center">
-        <a href="https://github.com/sathishr-ai/Smart-Navigation-System-for-Accident-Prone-Detection">
-          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+        <a href="https://github.com/sathishr-ai/HeartSafe">
+          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/🌐_Demo-0056D2?style=for-the-badge&logo=render&logoColor=white&labelColor=111111" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/📱_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" />
         </a>
       </p>
-      <p><b>Accident-Prone Zone Detection & Safe Route Logic</b></p>
+      <p><b>Intelligent Cross-Platform Healthcare App</b></p>
       <ul>
-        <li>🗺️ Full-stack geographic system for high-risk routes</li>
-        <li>🚨 Aggressive spatial route evaluation</li>
-        <li>📉 Risk scoring based on historical density</li>
-        <li>💻 Responsive enterprise-grade tracking UI</li>
+        <li>🏥 Early coronary heart disease detection system</li>
+        <li>🧠 XGBoost ML analysis of clinical patient metrics</li>
+        <li>⚡ Real-time risk assessments & automated advisories</li>
+        <li>📱 Seamless Flutter UI with a robust Node.js backend</li>
       </ul>
       <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-        <img src="https://img.shields.io/badge/GeoJSON-000000?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
