@@ -102,69 +102,21 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">👷‍♂️ AI Smart Helmet Ecosystem</h3>
-      <p align="center">
-        <a href="https://github.com/sathishr-ai/Smart-Helmet-Industrial-Safety">
-          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
-        </a>
-      </p>
-      <p><b>Industrial Hazard Detection & Worker Safety</b></p>
-      <ul>
-        <li>🚨 Multi-sensor embedded logic (Gas, Flame, Temp)</li>
-        <li>⚠️ Real-time collision & proximity algorithms</li>
-        <li>☁️ Hardware-to-Cloud telemetry integration</li>
-        <li>📱 Mobile application system for supervisors</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-010101?style=flat-square&logo=internetofthings&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 eComScope Analytics Suite</h3>
-      <p align="center">
-        <a href="https://github.com/sathishr-ai/Ecommerce-Sales-Analysis">
-          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
-        </a>
-      </p>
-      <p><b>Enterprise E-Commerce Intelligence Dashboard</b></p>
-      <ul>
-        <li>⚡ Processes 11,000+ row CSV datasets in-browser</li>
-        <li>📈 Optimized pure FileReader parsing pipeline</li>
-        <li>🗺️ Leaflet.js & Chart.js real-time rendering</li>
-        <li>🧠 Model AUC-ROC logic mapping: 0.97</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">❤️ HeartSafe - CHD Risk Assessor</h3>
       <p align="center">
         <a href="https://github.com/sathishr-ai/HeartSafe">
           <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
         </a>
         <a href="#">
-          <img src="https://img.shields.io/badge/🌐_Demo-0056D2?style=for-the-badge&logo=render&logoColor=white&labelColor=111111" />
+          <img src="https://img.shields.io/badge/🌐_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
         </a>
         <a href="#">
           <img src="https://img.shields.io/badge/📱_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" />
         </a>
       </p>
-      <p><b>Intelligent Cross-Platform Healthcare App</b></p>
-      <ul>
-        <li>🏥 Early coronary heart disease detection system</li>
-        <li>🧠 XGBoost ML analysis of clinical patient metrics</li>
-        <li>⚡ Real-time risk assessments & automated advisories</li>
-        <li>📱 Seamless Flutter UI with a robust Node.js backend</li>
-      </ul>
+      <p align="justify">
+        A fast, cross-platform healthcare application prioritizing early disease detection. Built with Flutter and Node.js, it analyzes clinical metrics and patient history through an XGBoost machine learning model to provide real-time Coronary Heart Disease risk assessments and automated preventive advisories.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -173,23 +125,62 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎓 Student Analytics Platform</h3>
+      <h3 align="center">🎓 AcademiX - Student Analytics</h3>
       <p align="center">
         <a href="https://github.com/sathishr-ai/student-academic-analytics-platform">
-          <img src="https://img.shields.io/badge/🔗_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
         </a>
       </p>
-      <p><b>AI-Powered Academic Performance Intelligence</b></p>
-      <ul>
-        <li>🧠 ML-driven student performance prediction</li>
-        <li>📊 Interactive analytical dashboards</li>
-        <li>📈 Trend visualization & insight generation</li>
-        <li>🎯 Data-driven academic recommendations</li>
-      </ul>
+      <p align="justify">
+        A masterfully crafted educational intelligence platform prioritizing administrative efficiency. Built with Python and Streamlit, it seamlessly processes 1,500+ student records, tracks attendance heatmaps, and detects at-risk students to provide instant, actionable academic insights—all powered by an embedded zero-config SQLite database.
+      </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 eComScope - Analytics Dashboard</h3>
+      <p align="center">
+        <a href="https://github.com/sathishr-ai/Ecommerce-Sales-Analysis">
+          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
+        </a>
+      </p>
+      <p align="justify">
+        A browser-based dashboard that ingests large CSV datasets (11,000+ rows) to deliver instant KPIs, interactive visualizations, and a machine-learning-inspired late-delivery predictor. Built with vanilla JavaScript and Chart.js, it simulates XGBoost-style risk scoring with 94% accuracy—no backend required.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👷‍♂️ INDUS-SAFETY - Smart Helmet</h3>
+      <p align="center">
+        <a href="https://github.com/sathishr-ai/Smart-Helmet-Industrial-Safety">
+          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+        </a>
+      </p>
+      <p align="justify">
+        A robust IoT safety platform prioritizing industrial worker protection. Built with Arduino (C/C++) and a cross-platform Flutter app, it utilizes multi-sensor telemetry to actively detect toxic gases, fire hazards, and potential collisions—providing instant, life-saving alerts and enterprise-scale oversight.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT_Telemetry-010101?style=flat-square&logoColor=white" />
       </p>
     </td>
   </tr>
