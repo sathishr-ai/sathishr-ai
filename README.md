@@ -247,17 +247,26 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="35" height="35" align="center" /> Education
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td valign="top">
-      <h3 style="margin-bottom: 0px;">🎓 B.Tech in Artificial Intelligence & Data Science</h3>
-      <p style="margin-top: 5px;">
-        <b>Saveetha Institute of Medical and Technical Sciences (SIMATS)</b> · <i>2023 - 2027</i>
+    <td width="20%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="90" height="90" alt="Graduation" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/📅_2023_--_2027-181717?style=for-the-badge&logoColor=white&color=0d1117" alt="Duration" />
+    </td>
+    <td width="80%" valign="top">
+      <h3 style="margin-bottom: 0px;">🧠 B.Tech in Artificial Intelligence & Data Science</h3>
+      <p style="margin-top: 5px; margin-bottom: 10px;">
+        <b>Saveetha Institute of Medical and Technical Sciences (SIMATS)</b> • <i>Chennai, Tamil Nadu</i>
       </p>
-      <ul>
-        <li>Currently pursuing my Bachelor's degree with a deep focus on machine learning algorithms, deep learning architecture, and large-scale data analytics in Chennai, Tamil Nadu.</li>
-        <li><b>CGPA:</b> 8.70</li>
-      </ul>
+      <p align="justify" style="margin-top: 0px;">
+        Engaged in an intensive academic framework deeply focused on architecting <b>Machine Learning Algorithms</b>, designing robust <b>Deep Learning Architectures</b>, and executing <b>Large-Scale Data Analytics</b>. Bridging the gap between theoretical data science and production-grade AI solutions.
+      </p>
+      <p style="margin-bottom: 0px;">
+        <img src="https://img.shields.io/badge/🏆_CGPA-8.70-FFB000?style=for-the-badge&labelColor=1a1b27" alt="CGPA 8.70" />
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1b27" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/Deep_Learning-5C3EE8?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1b27" alt="Deep Learning" />
+      </p>
     </td>
   </tr>
 </table>
