@@ -260,7 +260,7 @@
         <a href="https://www.saveetha.com/" style="text-decoration:none;"><b>Saveetha Institute of Medical and Technical Sciences (SIMATS)</b></a>
       </p>
       <p align="justify" style="margin-top: 0px; margin-bottom: 15px;">
-        Immersed in an elite academic track dedicated to the engineering of <b>Machine Learning Algorithms</b>, sophisticated <b>Deep Learning Architectures</b>, and robust <b>Large-Scale Data Analytics</b> systems. Driven to bridge theoretical data science with high-performance production environments.
+        Pursuing an intensive academic foundation that directly empowers my work as a <b>Software Engineer & Data Analyst</b>. Deeply focused on mastering the core competencies of <b>Machine Learning</b> and <b>Data Analytics</b>, equipping me to bridge complex AI models with resilient <b>Full-Stack Architectures</b>.
       </p>
       <p style="margin-bottom: 0px;">
         <img src="https://img.shields.io/badge/🗓️_Timeline-2023_--_2027-3B82F6?style=for-the-badge&labelColor=1a1b27" alt="Timeline" />
