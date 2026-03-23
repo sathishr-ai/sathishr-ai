@@ -263,9 +263,9 @@
         Immersed in an elite academic track dedicated to the engineering of <b>Machine Learning Algorithms</b>, sophisticated <b>Deep Learning Architectures</b>, and robust <b>Large-Scale Data Analytics</b> systems. Driven to bridge theoretical data science with high-performance production environments.
       </p>
       <p style="margin-bottom: 0px;">
-        <img src="https://img.shields.io/badge/Timeline-2023_--_2027-0d1117?style=for-the-badge&logo=eventstore&logoColor=3B82F6&color=1a1b27" alt="Timeline" />
-        <img src="https://img.shields.io/badge/Current_CGPA-8.70-FFB000?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b27" alt="CGPA 8.70" />
-        <img src="https://img.shields.io/badge/Location-Chennai,_India-0d1117?style=for-the-badge&logo=mahindra&logoColor=FF6B6B&color=1a1b27" alt="Location" />
+        <img src="https://img.shields.io/badge/🗓️_Timeline-2023_--_2027-3B82F6?style=for-the-badge&labelColor=1a1b27" alt="Timeline" />
+        <img src="https://img.shields.io/badge/🎯_Current_CGPA-8.70-FFB000?style=for-the-badge&labelColor=1a1b27" alt="CGPA 8.70" />
+        <img src="https://img.shields.io/badge/📍_Location-Chennai,_India-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="Location" />
       </p>
     </td>
   </tr>
