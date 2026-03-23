@@ -245,6 +245,26 @@
 <!-- GRADIENT NEON DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="35" height="35" align="center" /> Education
+
+<table align="center">
+  <tr>
+    <td valign="top">
+      <h3 style="margin-bottom: 0px;">🎓 B.Tech in Artificial Intelligence & Data Science</h3>
+      <p style="margin-top: 5px;">
+        <b>Saveetha Institute of Medical and Technical Sciences (SIMATS)</b> · <i>2023 - 2027</i>
+      </p>
+      <ul>
+        <li>Currently pursuing my Bachelor's degree with a deep focus on machine learning algorithms, deep learning architecture, and large-scale data analytics in Chennai, Tamil Nadu.</li>
+        <li><b>CGPA:</b> 8.70</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- GRADIENT NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" align="center" /> Certifications & Achievements
 
 <div align="center">
