@@ -247,29 +247,31 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="35" height="35" align="center" /> Education
 
+<div align="center">
+<blockquote>
 <table align="center" width="100%">
   <tr>
-    <td width="20%" align="center" valign="middle">
+    <td width="15%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="90" height="90" alt="Graduation" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/📅_2023_--_2027-181717?style=for-the-badge&logoColor=white&color=0d1117" alt="Duration" />
     </td>
-    <td width="80%" valign="top">
-      <h3 style="margin-bottom: 0px;">🧠 B.Tech in Artificial Intelligence & Data Science</h3>
+    <td width="85%" valign="top">
+      <h3 style="margin-bottom: 0px; margin-top: 0px;">🧠 Bachelor of Technology in AI & Data Science</h3>
       <p style="margin-top: 5px; margin-bottom: 10px;">
-        <b>Saveetha Institute of Medical and Technical Sciences (SIMATS)</b> • <i>Chennai, Tamil Nadu</i>
+        <a href="https://www.saveetha.com/" style="text-decoration:none;"><b>Saveetha Institute of Medical and Technical Sciences (SIMATS)</b></a>
       </p>
-      <p align="justify" style="margin-top: 0px;">
-        Engaged in an intensive academic framework deeply focused on architecting <b>Machine Learning Algorithms</b>, designing robust <b>Deep Learning Architectures</b>, and executing <b>Large-Scale Data Analytics</b>. Bridging the gap between theoretical data science and production-grade AI solutions.
+      <p align="justify" style="margin-top: 0px; margin-bottom: 15px;">
+        Immersed in an elite academic track dedicated to the engineering of <b>Machine Learning Algorithms</b>, sophisticated <b>Deep Learning Architectures</b>, and robust <b>Large-Scale Data Analytics</b> systems. Driven to bridge theoretical data science with high-performance production environments.
       </p>
       <p style="margin-bottom: 0px;">
-        <img src="https://img.shields.io/badge/🏆_CGPA-8.70-FFB000?style=for-the-badge&labelColor=1a1b27" alt="CGPA 8.70" />
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1b27" alt="Machine Learning" />
-        <img src="https://img.shields.io/badge/Deep_Learning-5C3EE8?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1a1b27" alt="Deep Learning" />
+        <img src="https://img.shields.io/badge/Timeline-2023_--_2027-0d1117?style=for-the-badge&logo=eventstore&logoColor=3B82F6&color=1a1b27" alt="Timeline" />
+        <img src="https://img.shields.io/badge/Current_CGPA-8.70-FFB000?style=for-the-badge&logo=target&logoColor=white&labelColor=1a1b27" alt="CGPA 8.70" />
+        <img src="https://img.shields.io/badge/Location-Chennai,_India-0d1117?style=for-the-badge&logo=mahindra&logoColor=FF6B6B&color=1a1b27" alt="Location" />
       </p>
     </td>
   </tr>
 </table>
+</blockquote>
+</div>
 
 <!-- GRADIENT NEON DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
