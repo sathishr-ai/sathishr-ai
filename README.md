@@ -5,35 +5,36 @@
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
 <div align="center" style="margin-top: -10px; margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=sathishr-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sathishr-ai?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sathishr-ai?label=Stars&style=for-the-badge&color=800080&labelColor=5B005B" alt="Stars" />
+  <a href="https://github.com/sathishr-ai"><img src="https://komarev.com/ghpvc/?username=sathishr-ai&label=PROFILE+VIEWS&color=3B82F6&style=for-the-badge" alt="Profile Views" /></a>
+  <a href="https://github.com/sathishr-ai?tab=followers"><img src="https://img.shields.io/github/followers/sathishr-ai?label=FOLLOWERS&style=for-the-badge&color=236ad3&labelColor=1a1b27" alt="Followers" /></a>
+  <a href="https://github.com/sathishr-ai"><img src="https://img.shields.io/github/stars/sathishr-ai?label=STARS&style=for-the-badge&color=800080&labelColor=1a1b27" alt="Stars" /></a>
 </div>
 
 <!-- TYPING SVG ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=Applied+Machine+Learning;Data+Pipeline+%26+ETL+Engineering;Full-Stack+AI+Deployment;From+Raw+Data+to+AI+Product" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Applied+Machine+Learning;Data+Pipeline+%26+ETL+Engineering;Full-Stack+AI+Deployment;From+Raw+Data+to+AI+Product" alt="Typing SVG" />
 </a>
 
 <!-- ACTION BUTTON CLUSTER -->
 <div align="center" style="margin-bottom: 20px;">
-  <a href="mailto:sathxsh57@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010&v=2" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sathish-r-2393412a5/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logoColor=white&labelColor=101010&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
-  <a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=101010&v=2" alt="Portfolio" /></a>
-  <a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=101010&v=2" alt="Resume" /></a>
+  <a href="mailto:sathxsh57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/sathish-r-2393412a5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
+  <a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a>
 </div>
 
 </div>
 
-<!-- GRADIENT NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" align="center" /> About Me
 
-<table align="center">
+<table>
   <tr>
     <td width="60%" valign="top">
-      <h3 align="center">Architecting Intelligence</h3>
+      <h3>Architecting Intelligence</h3>
       <p align="justify">
         I am a results-driven <b>Software Engineer & Data Analyst</b> specializing in bridging the gap between <b>complex Machine Learning models</b> and <b>highly responsive full-stack architectures</b>. From engineering interactive Data Dashboards to deploying full-stack healthcare and IoT platforms, I thrive at the intersection of AI and software engineering.
       </p>
@@ -42,261 +43,241 @@
       </p>
     </td>
     <td width="40%" valign="top">
-      <h3 align="center">Quick Facts</h3>
-      <ul>
-        <li>🔭 Working on: <b>AI-Powered Analytics</b></li>
-        <li>🌱 Learning: <b>LLMs & Generative AI</b></li>
-        <li>💡 Exploring: <b>MLOps Integration</b></li>
-        <li>🤝 Open to: <b>Enterprise AI Roles</b></li>
-        <li>🎯 Goal: <b>Build AI that matters</b></li>
-        <li>📍 Location: <b>India</b></li>
-      </ul>
+      <h3>Quick Facts</h3>
+      <p>
+        <code>🔭 Working on</code> <b>AI-Powered Analytics</b><br/>
+        <code>🌱 Learning</code> <b>LLMs & Generative AI</b><br/>
+        <code>💡 Exploring</code> <b>MLOps Integration</b><br/>
+        <code>🤝 Open to</code> <b>Enterprise AI Roles</b><br/>
+        <code>🎯 Goal</code> <b>Build AI that matters</b><br/>
+        <code>📍 Location</code> <b>India</b>
+      </p>
     </td>
   </tr>
 </table>
 
-<!-- GRADIENT NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="35" height="35" align="center" /> Technical Arsenal
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-<h4>🎨 Frontend</h4>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-</td>
-<td width="33%" valign="top" align="center">
-<h4>🔧 Backend</h4>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<h4>🗄️ Databases</h4>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</td>
-<td width="33%" valign="top" align="center">
-<h4>💻 Languages</h4>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-<h4>🤖 AI Tools</h4>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-</td>
-<td width="33%" valign="top" align="center">
-<h4>🧰 Tools</h4>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</td>
-<td width="33%" valign="top" align="center">
-<h4>🚀 DevOps</h4>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</td>
-</tr>
-</table>
-
-<!-- GRADIENT NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" align="center" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" align="center" /> Technical Arsenal
 
 <div align="center">
+  
+  <i>Architecting robust software with a focus on scale, performance, and intelligent automation.</i><br/><br/>
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🎨 Frontend & Mobile</h3>
+        <p>
+          <img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Flutter-1a1b27?style=flat-square&logo=flutter&logoColor=02569B" /><br/>
+          <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178C6" />
+          <img src="https://img.shields.io/badge/TailwindCSS-1a1b27?style=flat-square&logo=tailwindcss&logoColor=06B6D4" /><br/>
+          <img src="https://img.shields.io/badge/HTML5-1a1b27?style=flat-square&logo=html5&logoColor=E34F26" />
+          <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🔧 Backend & Cloud</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=339933" />
+          <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB" /><br/>
+          <img src="https://img.shields.io/badge/Django-1a1b27?style=flat-square&logo=django&logoColor=092E20" />
+          <img src="https://img.shields.io/badge/Flask-1a1b27?style=flat-square&logo=flask&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=2496ED" />
+          <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+        </p>
+      </td>
+      <td align="center" width="33%">
+        <h3>🤖 AI Tools</h3>
+        <p>
+          <img src="https://img.shields.io/badge/TensorFlow-1a1b27?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+          <img src="https://img.shields.io/badge/PyTorch-1a1b27?style=flat-square&logo=pytorch&logoColor=EE4C2C" /><br/>
+          <img src="https://img.shields.io/badge/HuggingFace-1a1b27?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+          <img src="https://img.shields.io/badge/Streamlit-1a1b27?style=flat-square&logo=streamlit&logoColor=FF4B4B" /><br/>
+          <img src="https://img.shields.io/badge/LangChain-1a1b27?style=flat-square&logo=langchain&logoColor=white" />
+          <img src="https://img.shields.io/badge/XGBoost-1a1b27?style=flat-square&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>🗄️ Databases</h3>
+        <p>
+          <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=4169E1" />
+          <img src="https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=47A248" /><br/>
+          <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=4479A1" />
+          <img src="https://img.shields.io/badge/SQLite-1a1b27?style=flat-square&logo=sqlite&logoColor=white" />
+        </p>
+      </td>
+      <td align="center">
+        <h3>📊 Analytics Tools</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Power_BI-1a1b27?style=flat-square&logo=powerbi&logoColor=F2C811" />
+          <img src="https://img.shields.io/badge/Tableau-1a1b27?style=flat-square&logo=tableau&logoColor=E97627" /><br/>
+          <img src="https://img.shields.io/badge/Pandas-1a1b27?style=flat-square&logo=pandas&logoColor=white" />
+          <img src="https://img.shields.io/badge/Excel-1a1b27?style=flat-square&logo=microsoftexcel&logoColor=217346" />
+        </p>
+      </td>
+      <td align="center">
+        <h3>🧰 Dev Tools</h3>
+        <p>
+          <img src="https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=F05032" />
+          <img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/VS_Code-1a1b27?style=flat-square&logo=visualstudiocode&logoColor=007ACC" />
+          <img src="https://img.shields.io/badge/Render-1a1b27?style=flat-square&logo=render&logoColor=46E3B7" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" align="center" /> Featured Architectures & Projects
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">❤️ HeartSafe - CHD Risk Assessor</h3>
-      <p align="center">
-        <a href="https://github.com/sathishr-ai/HeartSafe-FullStack.git">
-          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
-        </a>
-        <a href="https://heartsafechdpred.netlify.app/">
-          <img src="https://img.shields.io/badge/🌐_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=111111" />
-        </a>
-        <a href="https://github.com/sathishr-ai/HeartSafe-FullStack/releases/download/v1.0/app-release.apk">
-          <img src="https://img.shields.io/badge/📱_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" />
-        </a>
-      </p>
+      <h3>❤️ HeartSafe - CHD Risk Assessor</h3>
       <p><b>Intelligent Web & Mobile Healthcare Ecosystem</b></p>
-      <ul>
-        <li>🏥 <b>Dual-Platform:</b> Fully integrated Web Dashboard and dedicated Android App</li>
-        <li>🧠 <b>ML-Driven:</b> Analyzes clinical metrics via an integrated XGBoost model</li>
-        <li>⚡ <b>Real-Time UI:</b> Delivers instant risk scoring & automated advisories</li>
-        <li>💻 <b>Robust Stack:</b> Seamless Flutter mobile UI & web interface powered by Node.js</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <p align="justify">
+        A dual-platform healthcare solution utilizing an integrated XGBoost model to analyze clinical metrics and deliver real-time risk scoring. Features a seamless Flutter mobile UI and a robust Node.js web interface.
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 AcademiX - Student Analytics</h3>
-      <p align="center">
-        <a href="https://github.com/sathishr-ai/student-academic-analytics-platform">
-          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
-        </a>
-        <a href="https://student-academic-analytics-platform.streamlit.app/">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=111111" />
-        </a>
-      </p>
-      <p><b>Enterprise Educational Intelligence Platform</b></p>
-      <ul>
-        <li>📊 <b>Admin Efficiency:</b> Masterfully crafted to process 1,500+ student records</li>
-        <li>📈 <b>Visual Heatmaps:</b> Seamlessly tracks attendance trends & academic KPIs</li>
-        <li>🎯 <b>At-Risk Detection:</b> Identifies struggling students for actionable insights</li>
-        <li>🚀 <b>Zero-Config:</b> Built with Python, Streamlit, and an embedded SQLite DB</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 eComScope - Analytics Dashboard</h3>
-      <p align="center">
-        <a href="https://github.com/sathishr-ai/Ecommerce-Sales-Analysis">
-          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
-        </a>
-        <a href="https://sathishr-ai.github.io/Ecommerce-Sales-Analysis/Ecommerce%20sales.html">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-0078D4?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=111111" />
-        </a>
-      </p>
-      <p><b>Intelligent E-Commerce KPI Dashboard</b></p>
-      <ul>
-        <li>⚡ <b>High-Performance:</b> Browser-based ingestion of 11,000+ row CSV datasets</li>
-        <li>📈 <b>Interactive Vis:</b> Instant business KPIs and dynamic charts using Chart.js</li>
-        <li>🧠 <b>Predictive ML:</b> Machine-learning-inspired late-delivery scoring (94% accuracy)</li>
-        <li>💻 <b>Backend-Free:</b> Pure vanilla JavaScript pipeline simulating XGBoost logic</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/XGBoost-111111?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👷‍♂️ INDUS-SAFETY - Smart Helmet</h3>
-      <p align="center">
-        <a href="https://github.com/sathishr-ai/Smart-Helmet-Industrial-Safety">
-          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
-        </a>
-      </p>
-      <p><b>AI-Integrated IoT Safety Platform</b></p>
-      <ul>
-        <li>🛡️ <b>Worker Protection:</b> Robust safety ecosystem for hazardous environments</li>
-        <li>📡 <b>Sensor Telemetry:</b> Actively detects toxic gases, hazards, & collisions</li>
-        <li>🚨 <b>Life-Saving Alerts:</b> Provides instant notifications & enterprise oversight</li>
-        <li>📱 <b>Hardware-to-Mobile:</b> Arduino (C/C++) with a cross-platform Flutter app</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT_Telemetry-010101?style=flat-square&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<a href="https://github.com/sathishr-ai?tab=repositories">
-  <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-1a1b27?style=for-the-badge" />
-</a>
-<a href="https://sathishdev.vercel.app/">
-  <img src="https://img.shields.io/badge/💼_View_Portfolio-FF5722?style=for-the-badge" />
-</a>
-
-</div>
-
-<!-- GRADIENT NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" align="center" /> Professional Experience
-
-<table align="center">
-  <tr>
-    <td valign="top">
-      <h3 style="margin-bottom: 0px;">🔬 Artificial Intelligence Intern</h3>
-      <p style="margin-top: 5px;">
-        <a href="https://codtech.in/"><b>Codtech IT Solutions Pvt. Ltd</b></a> · <i>March 2026 - April 2026</i>
-      </p>
-      <ul>
-        <li>Designed and implemented machine learning models for real-world analytical tasks</li>
-        <li>Worked on NLP-based systems for text processing and intelligent data extraction</li>
-        <li>Built end-to-end AI workflows including data preprocessing, model training, and evaluation</li>
-        <li>Applied data-driven approaches to solve practical business and analytical problems</li>
-        <li>Explored intelligent system design and automation techniques in production scenarios</li>
-      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data_Pipeline-013243?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-1a1b27?style=flat-square&logo=flutter&logoColor=02569B" />
+        <img src="https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=nodedotjs&logoColor=339933" />
+        <img src="https://img.shields.io/badge/XGBoost-1a1b27?style=flat-square&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/sathishr-ai/HeartSafe-FullStack.git"><img src="https://img.shields.io/badge/CODE_REPOSITORY-1a1b27?style=for-the-badge&logo=github&logoColor=white" /></a><br/>
+        <a href="https://heartsafechdpred.netlify.app/"><img src="https://img.shields.io/badge/LIVEDEMO-00C7B7?style=for-the-badge&logo=netlify&labelColor=111111" /></a>
+        <a href="https://github.com/sathishr-ai/HeartSafe-FullStack/releases/download/v1.0/app-release.apk"><img src="https://img.shields.io/badge/DOWNLOAD_APK-3DDC84?style=for-the-badge&logo=android&labelColor=111111" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 AcademiX - Student Analytics</h3>
+      <p><b>Enterprise Educational Intelligence Platform</b></p>
+      <p align="justify">
+        An advanced analytics dashboard designed to process and visualize 1,500+ student records. Provides visual heatmaps for attendance and intelligent at-risk detection for actionable insights. Built with Python and Streamlit.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB" />
+        <img src="https://img.shields.io/badge/Streamlit-1a1b27?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+        <img src="https://img.shields.io/badge/SQLite-1a1b27?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <br/>
+      <p>
+        <a href="https://github.com/sathishr-ai/student-academic-analytics-platform"><img src="https://img.shields.io/badge/CODE_REPOSITORY-1a1b27?style=for-the-badge&logo=github&logoColor=white" /></a><br/>
+        <a href="https://student-academic-analytics-platform.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-FF4B4B?style=for-the-badge&logo=streamlit&labelColor=111111" /></a>
       </p>
     </td>
   </tr>
-</table>
-
-<!-- GRADIENT NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="35" height="35" align="center" /> Education
-
-<div align="center">
-<blockquote>
-<table align="center" width="100%">
   <tr>
-    <td width="15%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="90" height="90" alt="Graduation" />
+    <td width="50%" valign="top">
+      <h3>📊 eComScope - Analytics</h3>
+      <p><b>Intelligent E-Commerce KPI Dashboard</b></p>
+      <p align="justify">
+        High-performance browser-based analytics pipeline ingesting 11,000+ rows. Features dynamic Chart.js visualizations and a purely client-side ML-inspired delivery scoring algorithm with 94% accuracy.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/Chart.js-1a1b27?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
+        <img src="https://img.shields.io/badge/HTML5-1a1b27?style=flat-square&logo=html5&logoColor=E34F26" />
+      </p>
+      <br/>
+      <p>
+        <a href="https://github.com/sathishr-ai/Ecommerce-Sales-Analysis"><img src="https://img.shields.io/badge/CODE_REPOSITORY-1a1b27?style=for-the-badge&logo=github&logoColor=white" /></a><br/>
+        <a href="https://sathishr-ai.github.io/Ecommerce-Sales-Analysis/Ecommerce%20sales.html"><img src="https://img.shields.io/badge/LIVE_DEMO-0078D4?style=for-the-badge&logo=githubpages&labelColor=111111" /></a>
+      </p>
     </td>
-    <td width="85%" valign="top">
-      <h3 style="margin-bottom: 0px; margin-top: 0px;">🧠 Bachelor of Technology in AI & Data Science</h3>
-      <p style="margin-top: 5px; margin-bottom: 10px;">
-        <a href="https://www.saveetha.com/" style="text-decoration:none;"><b>Saveetha Institute of Medical and Technical Sciences (SIMATS)</b></a>
+    <td width="50%" valign="top">
+      <h3>👷‍♂️ INDUS-SAFETY - Smart Helmet</h3>
+      <p><b>AI-Integrated IoT Safety Platform</b></p>
+      <p align="justify">
+        Robust industrial safety ecosystem integrating hardware-level sensor telemetry (Arduino) with a cross-platform Flutter app. Actively detects hazardous gases and collisions to dispatch life-saving alerts.
       </p>
-      <p align="justify" style="margin-top: 0px; margin-bottom: 15px;">
-        Pursuing an intensive academic foundation that directly empowers my work as a <b>Software Engineer & Data Analyst</b>. Deeply focused on mastering the core competencies of <b>Machine Learning</b> and <b>Data Analytics</b>, equipping me to bridge complex AI models with resilient <b>Full-Stack Architectures</b>.
+      <p>
+        <img src="https://img.shields.io/badge/C++-1a1b27?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
+        <img src="https://img.shields.io/badge/Arduino-1a1b27?style=flat-square&logo=arduino&logoColor=00979D" />
+        <img src="https://img.shields.io/badge/IoT-1a1b27?style=flat-square&logoColor=white" />
       </p>
-      <p style="margin-bottom: 0px;">
-        <img src="https://img.shields.io/badge/🗓️_Timeline-2023_--_2027-3B82F6?style=for-the-badge&labelColor=1a1b27" alt="Timeline" />
-        <img src="https://img.shields.io/badge/🎯_Current_CGPA-8.70-FFB000?style=for-the-badge&labelColor=1a1b27" alt="CGPA 8.70" />
-        <img src="https://img.shields.io/badge/📍_Location-Chennai,_India-FF6B6B?style=for-the-badge&labelColor=1a1b27" alt="Location" />
+      <br/>
+      <p>
+        <a href="https://github.com/sathishr-ai/Smart-Helmet-Industrial-Safety"><img src="https://img.shields.io/badge/CODE_REPOSITORY-1a1b27?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
 </table>
-</blockquote>
+
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
-<!-- GRADIENT NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" align="center" /> Experience & Education
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" align="center" /> Certifications & Achievements
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 Professional Experience</h3>
+      <br/>
+      <b>🔬 Artificial Intelligence Intern</b><br/>
+      <a href="https://codtech.in/">Codtech IT Solutions Pvt. Ltd</a><br/>
+      <i>March 2026 - April 2026</i>
+      <ul>
+        <li>Engineered ML models for real-world analytical tasks.</li>
+        <li>Developed NLP-based systems for intelligent text extraction.</li>
+        <li>Built comprehensive AI workflows focusing on data-driven approaches.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Academic Background</h3>
+      <br/>
+      <b>🧠 B.Tech in AI & Data Science</b><br/>
+      <a href="https://www.saveetha.com/">Saveetha Institute of Medical and Technical Sciences</a><br/>
+      <i>2023 - 2027 • CGPA: 8.70 • Chennai, India</i>
+      <ul>
+        <li>Deep core focus on Mastering Machine Learning and Data Analytics.</li>
+        <li>Bridging complex AI models with resilient Full-Stack Architectures.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" align="center" /> Certifications
 
 <div align="center">
 
 | 🏅 Certification | 🏢 Issuer | 📅 Date |
 |:-----------------|:----------|:--------|
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) Oracle Database SQL — **Certified Specialist (81%)** | **Oracle University** | Nov 2024 |
-| ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) Tableau & Tableau Prep for Data Prep & Visualization | **Udemy** | Mar 2025 |
-| ![IoT](https://img.shields.io/badge/NPTEL-FF9933?style=flat-square&logo=swayam&logoColor=white) Introduction to Internet of Things — **Elite Certification (75%)** | **NPTEL (IIT Kharagpur)** | Jul - Oct 2025 |
-| ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white) Professional Certificate in Agile & Scrum | **Udemy** | Dec 2025 |
+| **Oracle Database SQL — Certified Specialist** | Oracle University | Nov 2024 |
+| **Tableau & Tableau Prep for Data Visualization** | Udemy | Mar 2025 |
+| **Introduction to Internet of Things — Elite** | NPTEL (IIT Kharagpur) | Oct 2025 |
+| **Professional Certificate in Agile & Scrum** | Udemy | Dec 2025 |
 
 </div>
 
-<!-- GRADIENT NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="35" height="35" align="center" /> GitHub Analytics
 
 <div align="center">
 
-<!-- STATS + STREAK SIDE BY SIDE -->
 <p>
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sathishr-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3B82F6&text_color=c9d1d9" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishr-ai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=3B82F6&fire=FF6B6B&currStreakLabel=58a6ff" alt="GitHub Streak" />
@@ -304,19 +285,17 @@
 
 <br/>
 
-<!-- TOP LANGUAGES + ACTIVITY GRAPH -->
 <p>
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishr-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sathishr-ai&bg_color=0d1117&color=58a6ff&line=3B82F6&point=FF6B6B&area=true&area_color=3B82F6&hide_border=true" alt="Activity Graph" width="95%" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- SNAKE ANIMATION -->
 <picture>
@@ -327,8 +306,10 @@
 
 </div>
 
-<!-- GRADIENT NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+<!-- NEON DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="35" height="35" align="center" /> Let's Connect
 
@@ -338,10 +319,10 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_sathxsh57@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathxsh57@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-r-2393412a5/)
-[![GitHub](https://img.shields.io/badge/⭐_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sathishr-ai)
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sathishdev.vercel.app/)
+<a href="mailto:sathxsh57@gmail.com"><img src="https://img.shields.io/badge/sathxsh57@gmail.com-1a1b27?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/sathish-r-2393412a5/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
+<a href="https://github.com/sathishr-ai"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://sathishdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=FF5722" alt="Portfolio" /></a>
 
 <br/><br/>
 
