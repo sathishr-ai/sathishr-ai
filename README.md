@@ -352,15 +352,15 @@
 
 <!-- STATS + STREAK SIDE BY SIDE -->
 <p>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sathishr-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3B82F6&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sathishr-ai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=3B82F6&fire=FF6B6B&currStreakLabel=58a6ff" alt="GitHub Streak" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=sathishr-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3B82F6&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sathishr-ai&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=3B82F6&fire=FF6B6B&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 <br/>
 
 <!-- TOP LANGUAGES + ACTIVITY GRAPH -->
 <p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathishr-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sathishr-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
 <br/>
