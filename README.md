@@ -102,6 +102,60 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🧬 LifeMatrix AI - Health Twin & Diagnostics</h3>
+      <p align="center">
+        <a href="https://github.com/sathishr-ai/LifeMatrix-AI">
+          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+        </a>
+        <a href="https://life-matrix-ai.vercel.app/">
+          <img src="https://img.shields.io/badge/🌐_Demo-00C6A7?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" />
+        </a>
+        <a href="https://github.com/sathishr-ai/LifeMatrix-AI/raw/main/LifeMatrix-AI.apk">
+          <img src="https://img.shields.io/badge/📱_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=111111" />
+        </a>
+      </p>
+      <p><b>Enterprise-Grade Cross-Platform Healthcare Ecosystem</b></p>
+      <ul>
+        <li>🏥 <b>Dual-Platform:</b> Fully integrated React Web Dashboard and dedicated Expo Android App</li>
+        <li>🧠 <b>Digital Twin AI:</b> Projects biological metrics via an interactive symptom assessment engine</li>
+        <li>⚡ <b>Security Hardened:</b> Features Bcrypt password hashing, token controls, and request limits</li>
+        <li>💻 <b>Modern Stack:</b> Fast Vite frontend powered by a Node.js sync server & Supabase PostgreSQL DB</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 DeepSense - Conversational AI Agent</h3>
+      <p align="center">
+        <a href="https://github.com/sathishr-ai/Deepsense.git">
+          <img src="https://img.shields.io/badge/🔗_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" />
+        </a>
+        <a href="https://deepsense.streamlit.app/">
+          <img src="https://img.shields.io/badge/🌐_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=111111" />
+        </a>
+      </p>
+      <p><b>Enterprise-Grade Deep Learning & NLP Ecosystem</b></p>
+      <ul>
+        <li>🧠 <b>Deep Architecture:</b> Built entirely from scratch using a custom Seq2Seq LSTM neural network with dynamic Attention mechanisms.</li>
+        <li>⚡ <b>Asynchronous UI:</b> Features real-time text streaming (typewriter effect) for ultra-low perceived latency and natural interaction.</li>
+        <li>🗣️ <b>Multimodal UX:</b> Seamlessly integrates native Text-to-Speech (TTS) voice synthesis for an accessible, verbal user experience.</li>
+        <li>💻 <b>Robust Stack:</b> Powerful Python backend mathematically validated via BLEU metrics, deployed to a sleek Streamlit web interface.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLTK-4E9A06?style=flat-square&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">❤️ HeartSafe - CHD Risk Assessor</h3>
       <p align="center">
         <a href="https://github.com/sathishr-ai/HeartSafe-FullStack.git">
